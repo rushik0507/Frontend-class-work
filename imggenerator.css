@@ -19,6 +19,7 @@ nav {
   border: none;
   border-radius: 40px;
   width: 30%;
+  height: 500px;
   padding: 20px;
 }
 .search {

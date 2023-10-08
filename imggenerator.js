@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     page++;
     if (page > 1) {
-      showmore.style.display = "block";
+      showmore.style.display = "flex";
     }
   }
 
