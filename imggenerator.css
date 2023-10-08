@@ -20,7 +20,7 @@ nav {
   border-radius: 40px;
   width: 30%;
   height: 500px;
-  padding: 20px;
+  padding: 20px 5px;
 }
 .search {
   width: 500px;
@@ -32,6 +32,7 @@ nav {
   justify-content: center;
   align-items: center;
   display: none;
+  margin-bottom: 10px;
 }
 .show-more button {
   border: none;
@@ -42,13 +43,70 @@ nav {
   color: #000;
 }
 
+.navlist a {
+  color: rgb(0, 0, 0);
+  /* margin-left: 20px; */
+  font-size: 20px;
+  text-decoration: none;
+}
+
+#menu-icon {
+  color: rgb(9, 9, 9);
+  font-size: 20px;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+}
+.side-bar {
+  background-color: rgb(66, 73, 73);
+  display: none;
+  padding-left: -20px;
+  box-sizing: border-box;
+}
+.dropdown:hover .side-bar {
+  display: block;
+  position: absolute;
+  right: 5%;
+}
+.side-bar ul {
+  display: block;
+}
+.side-bar ul li {
+  margin-right: 15px;
+}
+.dropdown {
+  display: none;
+}
+.responsive {
+  display: flex;
+  justify-content: space-between;
+}
+.responsive div {
+  margin: 5px;
+}
 @media screen and (max-width: 768px) {
   .team img {
     width: 45%;
+    height: 300px;
+  }
+  .dropdown {
+    display: block;
+    width: 30px;
+    height: 30px;
+  }
+  .responsive {
+    display: none;
   }
 }
 @media screen and (max-width: 400px) {
   .team img {
-    width: 75%;
+    width: 85%;
+    padding: none;
+  }
+  .dropdown {
+    display: block;
+  }
+  .responsive {
+    display: none;
   }
 }

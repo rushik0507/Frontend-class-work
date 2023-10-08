@@ -21,7 +21,7 @@
     <script src="./imggenerator.js"></script>
   </head>
   <body>
-    <nav class="bg-light shadow-lg d-flex">
+    <nav class="shadow-lg d-flex">
       <div class="nav-div">
         <img class="logo" src="react.png" alt="" />
       </div>
@@ -29,17 +29,33 @@
         <input
           type="text"
           id="search"
-          class="w-100 border border-0 rounded-start"
+          class="w-100 border border-1 border-dark rounded-start"
           placeholder="search images"
         />
-        <button class="rounded-end border border-0 sub">
+        <button class="rounded-end border border-1 border-dark sub">
           <i class="fa-solid fa-magnifying-glass" style="color: #000000"></i>
         </button>
       </form>
-      <div><span class="text-body-secondary">Sign in</span></div>
-      <div><span>gallary</span></div>
-      <div><span>About Us</span></div>
-      <div><span>contanct</span></div>
+      <div class="responsive">
+        <div><span>Sign in</span></div>
+        <div><span>gallary</span></div>
+        <div><span>About Us</span></div>
+        <div><span>contanct</span></div>
+      </div>
+
+      <!-- <div class="dropdown">
+        <i class="bi bi-list" style="color: #000000"></i>
+        <div class="bx bx-menu" id="menu-icon">
+          <div class="side-bar">
+            <ul class="navlist" type="none">
+              <li><a href="#">Sign in</a></li>
+              <li><a href="#">gallary</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+      </div> -->
     </nav>
 
     <div class="team">
