@@ -1,0 +1,222 @@
+@import "//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css";
+* {
+  margin: 0;
+  border: border-box;
+}
+
+.main {
+  background-color: #191a1c;
+  color: aliceblue;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+}
+.tcolor {
+  color: #929da5;
+}
+.sidenav {
+  height: 100%;
+  width: 15%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background: #1f2022;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+/* navigation bar */
+
+.nav-logo {
+  display: flex;
+  justify-content: center;
+  height: 10%;
+}
+
+.logo {
+  margin: 0px 5px 0px 0px;
+  width: 64px;
+  height: 64px;
+}
+
+.logo-name span {
+  font-size: 36px;
+  font-weight: 600;
+}
+
+.nav-exercises {
+  display: flex;
+  padding: 15px;
+}
+.nav-routines {
+  display: flex;
+  padding: 15px;
+}
+.nav-calculators {
+  display: flex;
+  padding: 15px;
+}
+.nav-blogs {
+  display: flex;
+  padding: 15px;
+}
+.nav-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 90%;
+}
+.nav-section2 {
+  padding: 20px;
+  border-top: 2px solid #929da5;
+}
+
+/* middle section */
+
+.main-mid {
+  width: 60%;
+  height: 100%;
+  background-color: #191a1c;
+  position: fixed;
+  display: block;
+  left: 15%;
+}
+
+.main-title {
+  margin: 10px 0 0 20px;
+  font-size: 1.5rem;
+}
+
+.mid {
+  margin: 20px;
+  background-color: #1f2022;
+  /* display: flex; */
+  height: 85%;
+}
+
+.mid-title {
+  font-size: 1.3rem;
+  padding: 10px;
+}
+
+.mid-image {
+  padding: 10px 20px 20px 20px;
+  height: 80%;
+  width: 100%;
+}
+
+.mid-image img {
+  width: 100%;
+  height: 100%;
+}
+
+/* sidebar */
+
+.side-main {
+  margin: 20px;
+  height: 100%;
+  background-color: #1f2022;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar {
+  width: 25%;
+  height: 95%;
+  position: fixed;
+  left: 75%;
+  background-color: #191a1c;
+}
+
+.side-title {
+  padding: 10px;
+  font-size: 1.2rem;
+}
+
+.side-main select {
+  width: 100%;
+  border-radius: 10px;
+  height: 35px;
+}
+
+.side-categories {
+  padding: 12px;
+}
+
+.side-muscle {
+  padding: 12px;
+}
+
+.side-search {
+  display: flex;
+  padding: 12px;
+}
+.side-search input {
+  width: 100%;
+  border-radius: 10px;
+  height: 35px;
+}
+
+.side-section {
+  height: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+.section-title {
+  border-top: 1px solid #929da5;
+  font-size: 0.8rem;
+  padding: 12px;
+}
+
+.side-exercise {
+  display: flex;
+  padding: 12px;
+}
+.ex-image img {
+  width: 60px;
+  height: 60px;
+  border-radius: 100px;
+  padding-right: 5px;
+}
+.ex-muscle {
+  font-size: 0.9rem;
+  color: #929da5;
+}
+
+/* after select exercise */
+
+.main-mid2 {
+  width: 60%;
+  height: 100%;
+  background-color: #191a1c;
+  position: fixed;
+  display: none;
+  left: 15%;
+}
+
+.mid2-title {
+  margin: 10px 0 0 20px;
+  font-size: 1.5rem;
+}
+
+.mid {
+  margin: 20px;
+  background-color: #1f2022;
+  /* display: flex; */
+  height: 85%;
+}
+
+.mid-title {
+  font-size: 1.3rem;
+  padding: 10px;
+}
+
+.mid-image {
+}
+
+.mid-image video {
+  width: 80%;
+  height: 80%;
+  vertical-align: middle;
+}

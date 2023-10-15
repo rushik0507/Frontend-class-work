@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="index.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Fitwiki</title>
+  <script src="./index.js"></script>
+</head>
+
+<body>
+  <div class="main">
+    <div class="sidenav">
+      <div class="nav-logo">
+        <div class="logo">
+          <img src="./images/logo.png" alt="">
+        </div>
+        <div class="logo-name">
+          <span>FitFreak</span>
+        </div>
+      </div>
+      <div class="nav-section">
+        <div class="nav-section1">
+          <div class="nav-exercises tcolor">
+            <span>Exercises</span>
+          </div>
+          <div class="nav-routines tcolor">
+            <span>Routines</span>
+          </div>
+          <div class="nav-calculators tcolor">
+            <span>Calculators</span>
+          </div>
+          <div class="nav-blogs tcolor">
+            <span>Blogs</span>
+          </div>
+        </div>
+        <div class="nav-section2">
+          <div class="signin">
+            <span>Sign In</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="main-mid">
+      <div class="main-title">
+        Exercises
+      </div>
+      <div class="mid">
+        <div class="mid-title">
+          Select Muscle
+        </div>
+        <div class="mid-image">
+          <img src="./images/muscle map.jfif" alt="">
+        </div>
+      </div>
+    </div>
+    <div class="main-mid2">
+      <div class="mid2-title">
+        Exercises
+      </div>
+      <div class="mid">
+        <div class="mid-title">
+          name of Exercises
+        </div>
+        <div class="mid-image">
+          <video loop autoplay >
+            <source src="./00251201-Barbell-Bench-Press_Chest.mp4" >
+          </video>
+        </div>
+      </div>
+    </div>
+    <div class="sidebar">
+      <div class="side-main">
+        <div class="side-title">Library</div>
+        <div class="side-categories">
+          <select name="Category" id="">
+            <option value="">All Category</option>
+            <option value="">strength</option>
+            <option value="">cardio</option>
+            <option value="">Cross-fit</option>
+            <option value="">Calesthenics</option>
+          </select>
+        </div>
+        <div class="side-muscle">
+          <select name="MUscle" id="">
+            <option value="">All Muscle</option>
+            <option value="">Chest</option>
+            <option value="">Abs</option>
+            <option value="">Biceps</option>
+            <option value="">Calves</option>
+            <option value="">Forearms</option>
+            <option value="">Full body</option>
+            <option value="">Gults</option>
+            <option value="">Hamstring</option>
+            <option value="">Lats</option>
+            <option value="">Lower Back</option>
+            <option value="">Neck</option>
+            <option value="">Quadriceps</option>
+            <option value="">Shoulders</option>
+            <option value="">Traps</option>
+            <option value="">Triceps</option>
+            <option value="">Upper Back</option>
+          </select>
+        </div>
+        <div class="side-search tcolor">
+          <input type="text" placeholder="&#61442 Search">
+        </div>
+        <div class="section-title tcolor ">
+          Popular Exercises
+        </div>
+        <div class="side-section">
+          <div class="side-exercise">
+            <div class="ex-image">
+              <img src="./images/Bench Press (Barbell).jpg" alt="">
+            </div>
+            <div class="ex">
+              <div class="ex-name">Bench Press (Barbell)</div>
+              <div class="ex-muscle">Chest</div>
+            </div>
+          </div>
+          <div class="side-exercise">
+            <div class="ex-image">
+              <img src="./images/Bench Press (Dumbbell).jpg" alt="">
+            </div>
+            <div class="ex">
+              <div class="ex-name">Bench Press (Dumbbell)</div>
+              <div class="ex-muscle">Chest</div>
+            </div>
+          </div>
+          <div class="side-exercise">
+            <div class="ex-image">
+              <img src="./images/Incline Bench Press (Dumbbell).jpg" alt="">
+            </div>
+            <div class="ex">
+              <div class="ex-name">Incline Bench Press (Dumbbell)</div>
+              <div class="ex-muscle">Chest</div>
+            </div>
+          </div>
+          <div class="side-exercise">
+            <div class="ex-image">
+              <img src="./images/Chest Fly (Machine).jpg" alt="">
+            </div>
+            <div class="ex">
+              <div class="ex-name">Chest Fly (Machine)</div>
+              <div class="ex-muscle">Chest</div>
+            </div>
+          </div>
+          <div class="side-exercise">
+            <div class="ex-image">
+              <img src="./images/Butterfly (Pec Deck).jpg" alt="">
+            </div>
+            <div class="ex">
+              <div class="ex-name">Butterfly (Pec Deck)</div>
+              <div class="ex-muscle">Chest</div>
+            </div>
+          </div>
+          <div class="side-exercise">
+            <div class="ex-image">
+              <img src="./images/Cable Fly Crossovers.jpg" alt="">
+            </div>
+            <div class="ex">
+              <div class="ex-name">Cable Fly Crossovers</div>
+              <div class="ex-muscle">Chest</div>
+            </div>
+          </div>
+          <div class="side-exercise">
+            <div class="ex-image">
+              <img src="./images/barbell bench press.png" alt="">
+            </div>
+            <div class="ex">
+              <div class="ex-name">Bench Press (Barbell)</div>
+              <div class="ex-muscle">Chest</div>
+            </div>
+          </div>
+          <div class="side-exercise">
+            <div class="ex-image">
+              <img src="./images/barbell bench press.png" alt="">
+            </div>
+            <div class="ex">
+              <div class="ex-name">Bench Press (Barbell)</div>
+              <div class="ex-muscle">Chest</div>
+            </div>
+          </div>
+          <div class="side-exercise">
+            <div class="ex-image">
+              <img src="./images/barbell bench press.png" alt="">
+            </div>
+            <div class="ex">
+              <div class="ex-name">Bench Press (Barbell)</div>
+              <div class="ex-muscle">Chest</div>
+            </div>
+          </div>
+          <div class="side-exercise">
+            <div class="ex-image">
+              <img src="./images/barbell bench press.png" alt="">
+            </div>
+            <div class="ex">
+              <div class="ex-name">Bench Press (Barbell)</div>
+              <div class="ex-muscle">Chest</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+</body>
+
+</html>
