@@ -14,6 +14,9 @@ async function searchex() {
       para.innerText = x[s].name;
       document.body.appendChild(para);
       console.log(x[s].name);
+      const im = document.createElement("img");
+      im.src = x[s].src;
+      document.body.appendChild(im);
       flag = 1;
     }
   }
