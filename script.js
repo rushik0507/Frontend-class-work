@@ -1,9 +1,9 @@
 const formel = document.getElementById("search");
 const inputel = document.getElementById("muscle");
 const d = document.getElementById("fig");
-async function searchex() {
-  const url = `./data.json`;
+const url = `./data.json`;
 
+async function searchex() {
   const response = await fetch(url);
   const x = await response.json();
   var flag = 0;
@@ -19,7 +19,7 @@ async function searchex() {
       para.innerText = x[s].name;
       outer.appendChild(para);
       flag = 1;
-      figinner.appendChild(outer);
+      d.appendChild(outer);
     }
   }
   if (flag == 0) {
@@ -27,11 +27,10 @@ async function searchex() {
     para.innerText = "No Data Found";
     document.body.appendChild(para);
   }
-  fig.appendChild(figinner);
 }
 
 formel.addEventListener("click", (event) => {
   event.preventDefault();
-  figinner.remove();
+  d.innerHTML = "";
   searchex();
 });

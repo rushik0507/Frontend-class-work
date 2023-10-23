@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
   async function searchImage() {
     inputdata = inputel.value;
     const url = `https://api.unsplash.com/search/photos?page=${page}&query=${inputdata}&client_id=${key}`;
-
+    // const url = `./data.json?name=${inputdata}`;
     const response = await fetch(url);
     const data = await response.json();
 
@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     results.map((result) => {
       const image = document.createElement("img");
-      image.src = result.urls.small;
+      image.src = result.src;
       searchresult.appendChild(image);
     });
 
