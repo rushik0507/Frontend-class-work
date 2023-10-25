@@ -23,15 +23,64 @@
         border-radius: 100%;
         padding: 10px;
       }
+      .check {
+        height: 100px;
+        width: 100px;
+        position: fixed;
+        top: 0;
+        left: 30%;
+      }
+      .check img {
+        height: 500px;
+        width: 500px;
+      }
+      .check video {
+        height: 500px;
+        width: 500px;
+      }
     </style>
   </head>
   <body>
     this try HTML
-    <form action="">
+    <!-- <form action="">
       <input type="text" placeholder="type the muscle" id="muscle" />
       <button id="search" style="width: 100px; height: 20px"></button>
-    </form>
+    </form> -->
+    <select id="mySelect">
+      <option value="All Muscles">All Muscles</option>
+      <option value="Abdominals">Abdominals</option>
+      <option value="Abductors">Abductors</option>
+      <option value="Adductors">Adductors</option>
+      <option value="Biceps">Biceps</option>
+      <option value="Lower Back">Lower Back</option>
+      <option value="Upper Back">Upper Back</option>
+      <option value="Cardio">Cardio</option>
+      <option value="Chest">Chest</option>
+      <option value="Calves">Calves</option>
+      <option value="Forearms">Forearms</option>
+      <option value="Glutes">Glutes</option>
+      <option value="Hamstrings">Hamstrings</option>
+      <option value="Lats">Lats</option>
+      <option value="Quadriceps">Quadriceps</option>
+      <option value="Shoulders">Shoulders</option>
+      <option value="Triceps">Triceps</option>
+      <option value="Traps">Traps</option>
+      <option value="Neck">Neck</option>
+      <option value="Full Body">Full Body</option>
+    </select>
+    <select id="mySelect2">
+      <option value="All Equipment">All Equipment</option>
+      <option value="None">None</option>
+      <option value="Barbell">Barbell</option>
+      <option value="Dumbbell">Dumbbell</option>
+      <option value="Kettlebell">Kettlebell</option>
+      <option value="Machine">Machine</option>
+      <option value="Plate">Plate</option>
+      <option value="Resistance Band">Resistance Band</option>
+      <option value="Other">Other</option>
+    </select>
     <div id="fig"></div>
+    <div class="check" id="hit"></div>
     <script src="./script.js"></script>
   </body>
 </html>
