@@ -1637,15 +1637,15 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Sternum Pull up (Gironda).jpg",
-    "main": "./"
+    "main": "./videos/Sternum Pull up (Gironda).jpg"
   },
   {
     "name": "Straight Arm Lat Pulldown (Cable)",
     "muscle": "Lats",
     "equipment": "Machine",
     "isvideo": true,
-    "src": "./images/Sternum Pull up (Gironda).jpg",
-    "main": "./"
+    "src": "./images/Straight Arm Lat Pulldown (Cable).jpg",
+    "main": "./videos/Straight Arm Lat Pulldown (Cable).mp4"
   },
   {
     "name": "Wide Pull Up",
@@ -1653,7 +1653,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Wide Pull Up.jpg",
-    "main": "./"
+    "main": "./videos/Wide Pull Up.mp4"
   },
   {
     "name": "Lat Pulldown (Band)",
@@ -1661,7 +1661,7 @@
     "equipment": "Resistance Band",
     "isvideo": true,
     "src": "./images/Lat Pulldown (Band).jpg",
-    "main": "./"
+    "main": "./videos/Lat Pulldown (Band).jpg"
   },
   {
     "name": "Pull Up (Band)",
@@ -1669,7 +1669,7 @@
     "equipment": "Resistance Band",
     "isvideo": true,
     "src": "./images/Pull Up (Band).jpg",
-    "main": "./"
+    "main": "./videos/Pull Up (Band).jpg"
   },
   {
     "name": "Assisted Pistol Squats",
@@ -1677,7 +1677,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Assisted Pistol Squats.jpg",
-    "main": "./"
+    "main": "./videos/Assisted Pistol Squats.jpg"
   },
   {
     "name": "High Knee Skips",
@@ -1685,7 +1685,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/High Knee Skips.jpg",
-    "main": "./"
+    "main": "./videos/High Knee Skips.jpg"
   },
   {
     "name": "Jump Squat",
@@ -1693,7 +1693,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Jump Squat.jpg",
-    "main": "./"
+    "main": "./videos/Jump Squat.mp4"
   },
   {
     "name": "Jumping Lunge",
@@ -1701,7 +1701,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Jumping Lunge.jpg",
-    "main": "./"
+    "main": "./videos/Jumping Lunge.mp4"
   },
   {
     "name": "Lateral Lunge",
@@ -1709,7 +1709,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Lateral Lunge.jpg",
-    "main": "./"
+    "main": "./videos/Lateral Lunge.jpg"
   },
   {
     "name": "Lunge",
@@ -1717,7 +1717,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Lunge.jpg",
-    "main": "./"
+    "main": "./videos/Lunge.mp4"
   },
   {
     "name": "Pistol Squat",
@@ -1725,7 +1725,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Pistol Squat.jpg",
-    "main": "./"
+    "main": "./videos/Pistol Squat.jpg"
   },
   {
     "name": "Reverse Lunge",
@@ -1733,7 +1733,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Reverse Lunge.jpg",
-    "main": "./"
+    "main": "./videos/Reverse Lunge.jpg"
   },
   {
     "name": "Sissy Squat (Weighted)",
@@ -1741,7 +1741,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Sissy Squat (Weighted).jpg",
-    "main": "./"
+    "main": "./videos/Sissy Squat (Weighted).mp4"
   },
   {
     "name": "Squat (Bodyweight)",
@@ -1749,7 +1749,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Squat (Bodyweight).jpg",
-    "main": "./"
+    "main": "./videos/Squat (Bodyweight).mp4"
   },
   {
     "name": "Sumo Squat",
@@ -1757,7 +1757,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Sumo Squat.jpg",
-    "main": "./"
+    "main": "./videos/Sumo Squat.mp4"
   },
   {
     "name": "Walking Lunge",
@@ -1765,7 +1765,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Walking Lunge.jpg",
-    "main": "./"
+    "main": "./videos/Walking Lunge.mp4"
   },
   {
     "name": "Box Squat (Barbell)",
@@ -1773,7 +1773,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Box Squat (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Box Squat (Barbell).jpg"
   },
   {
     "name": "Front Squat",
@@ -1781,7 +1781,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Front Squat.jpg",
-    "main": "./"
+    "main": "./videos/Front Squat.mp4"
   },
   {
     "name": "Full Squat",
@@ -1789,7 +1789,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Full Squat.jpg",
-    "main": "./"
+    "main": "./videos/Full Squat.mp4"
   },
   {
     "name": "Hack Squat",
@@ -1797,7 +1797,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Hack Squat.jpg",
-    "main": "./"
+    "main": "./videos/Hack Squat.mp4"
   },
   {
     "name": "Lunge (Barbell)",
@@ -1805,7 +1805,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Lunge (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Lunge (Barbell).mp4"
   },
   {
     "name": "Pause Squat (Barbell)",
@@ -1813,7 +1813,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Pause Squat (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Pause Squat (Barbell).mp4"
   },
   {
     "name": "Reverse Lunge (Barbell)",
@@ -1821,7 +1821,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Reverse Lunge (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Reverse Lunge (Barbell).jpg"
   },
   {
     "name": "Squat (Barbell)",
@@ -1829,7 +1829,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Squat (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Squat (Barbell).mp4"
   },
   {
     "name": "Sumo Squat (Barbell)",
@@ -1837,7 +1837,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Sumo Squat (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Sumo Squat (Barbell).mp4"
   },
   {
     "name": "Zercher Squat",
@@ -1845,7 +1845,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Zercher Squat.jpg",
-    "main": "./"
+    "main": "./videos/Zercher Squat.jpg"
   },
   {
     "name": "Bulgarian Split Squat",
@@ -1853,7 +1853,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Bulgarian Split Squat.jpg",
-    "main": "./"
+    "main": "./videos/Bulgarian Split Squat.jpg"
   },
   {
     "name": "Curtsy Lunge (Dumbbell)",
@@ -1861,7 +1861,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Curtsy Lunge (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Curtsy Lunge (Dumbbell).jpg"
   },
   {
     "name": "Dumbbell Step Up",
@@ -1869,7 +1869,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Dumbbell Step Up.jpg",
-    "main": "./"
+    "main": "./videos/Dumbbell Step Up.jpg"
   },
   {
     "name": "Goblet Squat",
@@ -1877,7 +1877,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Goblet Squat.jpg",
-    "main": "./"
+    "main": "./videos/Goblet Squat.mp4"
   },
   {
     "name": "Lunge (Dumbbell)",
@@ -1885,7 +1885,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Lunge (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Lunge (Dumbbell).mp4"
   },
   {
     "name": "Split Squat (Dumbbell)",
@@ -1893,7 +1893,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Split Squat (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Split Squat (Dumbbell).mp4"
   },
   {
     "name": "Squat (Dumbbell)",
@@ -1901,7 +1901,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Squat (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Squat (Dumbbell).jpg"
   },
   {
     "name": "Sumo Squat (Dumbbell)",
@@ -1909,7 +1909,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Sumo Squat (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Sumo Squat (Dumbbell).mp4"
   },
   {
     "name": "Walking Lunge (Dumbbell)",
@@ -1917,7 +1917,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Walking Lunge (Dumbbell).png",
-    "main": "./"
+    "main": "./videos/Walking Lunge (Dumbbell).mp4"
   },
   {
     "name": "Kettlebell Goblet Squat",
@@ -1925,7 +1925,7 @@
     "equipment": "Kettlebell",
     "isvideo": true,
     "src": "./images/Kettlebell Goblet Squat.jpg",
-    "main": "./"
+    "main": "./videos/Kettlebell Goblet Squat.jpg"
   },
   {
     "name": "Sumo Squat (Kettlebell)",
@@ -1933,7 +1933,7 @@
     "equipment": "Kettlebell",
     "isvideo": true,
     "src": "./images/Sumo Squat (Kettlebell).jpg",
-    "main": "./"
+    "main": "./videos/Sumo Squat (Kettlebell).mp4"
   },
   {
     "name": "Hack Squat (Machine)",
@@ -1941,7 +1941,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Hack Squat (Machine).jpg",
-    "main": "./"
+    "main": "./videos/Hack Squat (Machine).mp4"
   },
   {
     "name": "Leg Extension (Machine)",
@@ -1949,7 +1949,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Leg Extension (Machine).jpg",
-    "main": "./"
+    "main": "./videos/Leg Extension (Machine).mp4"
   },
   {
     "name": "Leg Press (Machine)",
@@ -1957,7 +1957,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Leg Press (Machine).jpg",
-    "main": "./"
+    "main": "./videos/Leg Press (Machine).mp4"
   },
   {
     "name": "Leg Press Horizontal (Machine)",
@@ -1965,7 +1965,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Leg Press Horizontal (Machine).jpg",
-    "main": "./"
+    "main": "./videos/Leg Press Horizontal (Machine).mp4"
   },
   {
     "name": "Pendulum Squat (Machine)",
@@ -1973,7 +1973,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Pendulum Squat (Machine).jpg",
-    "main": "./"
+    "main": "./videos/Pendulum Squat (Machine).mp4"
   },
   {
     "name": "Single Leg Press (Machine)",
@@ -1981,7 +1981,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Single Leg Press (Machine).jpg",
-    "main": "./"
+    "main": "./videos/Single Leg Press (Machine).mp4"
   },
   {
     "name": "Squat (Machine)",
@@ -1989,7 +1989,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Squat (Machine).jpg",
-    "main": "./"
+    "main": "./videos/Squat (Machine).jpg"
   },
   {
     "name": "Squat (Smith Machine)",
@@ -1997,7 +1997,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Squat (Smith Machine).jpg",
-    "main": "./"
+    "main": "./videos/Squat (Smith Machine).mp4"
   },
   {
     "name": "Squat (Band)",
@@ -2005,7 +2005,7 @@
     "equipment": "Resistance Band",
     "isvideo": true,
     "src": "./images/Squat (Band).jpg",
-    "main": "./"
+    "main": "./videos/Squat (Band).jpg"
   },
   {
     "name": "Box Jump",
@@ -2013,7 +2013,7 @@
     "equipment": "Other",
     "isvideo": true,
     "src": "./images/Box Jump.jpg",
-    "main": "./"
+    "main": "./videos/Box Jump.jpg"
   },
   {
     "name": "Lateral Box Jump",
@@ -2021,7 +2021,7 @@
     "equipment": "Other",
     "isvideo": true,
     "src": "./images/Lateral Box Jump.jpg",
-    "main": "./"
+    "main": "./videos/Lateral Box Jump.jpg"
   },
   {
     "name": "Step Up",
@@ -2029,7 +2029,7 @@
     "equipment": "Other",
     "isvideo": true,
     "src": "./images/Step Up.jpg",
-    "main": "./"
+    "main": "./videos/Step Up.jpg"
   },
   {
     "name": "Wall Sit",
@@ -2037,7 +2037,7 @@
     "equipment": "Other",
     "isvideo": true,
     "src": "./images/Wall Sit.jpg",
-    "main": "./"
+    "main": "./videos/Wall Sit.jpg"
   },
   {
     "name": "Handstand Push Up",
@@ -2045,7 +2045,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Handstand Push Up.jpg",
-    "main": "./"
+    "main": "./videos/Handstand Push Up.jpg"
   },
   {
     "name": "Shoulder Taps",
@@ -2053,7 +2053,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Shoulder Taps.jpg",
-    "main": "./"
+    "main": "./videos/Shoulder Taps.mp4"
   },
   {
     "name": "Front Raise (Barbell)",
@@ -2061,7 +2061,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Front Raise (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Front Raise (Barbell).mp4"
   },
   {
     "name": "Overhead Press (Barbell)",
@@ -2069,7 +2069,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Overhead Press (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Overhead Press (Barbell).mp4"
   },
   {
     "name": "Push Press",
@@ -2077,7 +2077,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Push Press.jpg",
-    "main": "./"
+    "main": "./videos/Push Press.mp4"
   },
   {
     "name": "Seated Overhead Press (Barbell)",
@@ -2085,7 +2085,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Seated Overhead Press (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Seated Overhead Press (Barbell).jpg"
   },
   {
     "name": "Standing Military Press (Barbell)",
@@ -2093,7 +2093,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Standing Military Press (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Standing Military Press (Barbell).mp4"
   },
   {
     "name": "Arnold Press (Dumbbell)",
@@ -2101,7 +2101,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Arnold Press (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Arnold Press (Dumbbell).mp4"
   },
   {
     "name": "Chest Supported Y Raise (Dumbbell)",
@@ -2109,7 +2109,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Chest Supported Y Raise (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Chest Supported Y Raise (Dumbbell).mp4"
   },
   {
     "name": "Front Raise (Dumbbell)",
@@ -2117,7 +2117,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Front Raise (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Front Raise (Dumbbell).mp4"
   },
   {
     "name": "Lateral Raise (Dumbbell)",
@@ -2125,7 +2125,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Lateral Raise (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Lateral Raise (Dumbbell).mp4"
   },
   {
     "name": "Overhead Press (Dumbbell)",
@@ -2133,7 +2133,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Overhead Press (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Overhead Press (Dumbbell).mp4"
   },
   {
     "name": "Seated Lateral Raise (Dumbbell)",
@@ -2141,7 +2141,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Seated Lateral Raise (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Seated Lateral Raise (Dumbbell).mp4"
   },
   {
     "name": "Seated Overhead Press (Dumbbell)",
@@ -2149,7 +2149,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Seated Overhead Press (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Seated Overhead Press (Dumbbell).mp4"
   },
   {
     "name": "Shoulder Press (Dumbbell)",
@@ -2157,7 +2157,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Shoulder Press (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Shoulder Press (Dumbbell).mp4"
   },
   {
     "name": "Upright Row (Dumbbell)",
@@ -2165,7 +2165,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Upright Row (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Upright Row (Dumbbell).mp4"
   },
   {
     "name": "Face Pull",
@@ -2173,7 +2173,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Face Pull.jpg",
-    "main": "./"
+    "main": "./videos/Face Pull.jpg"
   },
   {
     "name": "Front Raise (Cable)",
@@ -2181,7 +2181,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Front Raise (Cable).jpg",
-    "main": "./"
+    "main": "./videos/Front Raise (Cable).mp4"
   },
   {
     "name": "Lateral Raise (Cable)",
@@ -2189,7 +2189,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Lateral Raise (Cable).jpg",
-    "main": "./"
+    "main": "./videos/Lateral Raise (Cable).mp4"
   },
   {
     "name": "Lateral Raise (Machine)",
@@ -2197,7 +2197,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Lateral Raise (Machine).jpg",
-    "main": "./"
+    "main": "./videos/Lateral Raise (Machine).mp4"
   },
   {
     "name": "Overhead Press (Smith Machine)",
@@ -2205,7 +2205,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Overhead Press (Smith Machine).jpg",
-    "main": "./"
+    "main": "./videos/Overhead Press (Smith Machine).mp4"
   },
   {
     "name": "Seated Shoulder Press (Machine)",
@@ -2213,7 +2213,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Seated Shoulder Press (Machine).jpg",
-    "main": "./"
+    "main": "./videos/Seated Shoulder Press (Machine).mp4"
   },
   {
     "name": "Shoulder Press (Machine Plates)",
@@ -2221,7 +2221,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Shoulder Press (Machine Plates).jpg",
-    "main": "./"
+    "main": "./videos/Shoulder Press (Machine Plates).mp4"
   },
   {
     "name": "Single Arm Lateral Raise (Cable)",
@@ -2229,7 +2229,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Single Arm Lateral Raise (Cable).jpg",
-    "main": "./"
+    "main": "./videos/Single Arm Lateral Raise (Cable).mp4"
   },
   {
     "name": "Upright Row (Cable)",
@@ -2237,7 +2237,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Upright Row (Cable).jpg",
-    "main": "./"
+    "main": "./videos/Upright Row (Cable).mp4"
   },
   {
     "name": "Plate Front Raise",
@@ -2245,7 +2245,7 @@
     "equipment": "Plate",
     "isvideo": true,
     "src": "./images/Plate Front Raise.jpg",
-    "main": "./"
+    "main": "./videos/Plate Front Raise.mp4"
   },
   {
     "name": "Band Pullaparts",
@@ -2253,7 +2253,7 @@
     "equipment": "Resistance Band",
     "isvideo": true,
     "src": "./images/Band Pullaparts.jpg",
-    "main": "./"
+    "main": "./videos/Band Pullaparts.jpg"
   },
   {
     "name": "Front Raise (Band)",
@@ -2261,7 +2261,7 @@
     "equipment": "Resistance Band",
     "isvideo": true,
     "src": "./images/Front Raise (Band).jpg",
-    "main": "./"
+    "main": "./videos/Front Raise (Band).jpg"
   },
   {
     "name": "Lateral Raise (Band)",
@@ -2269,7 +2269,7 @@
     "equipment": "Resistance Band",
     "isvideo": true,
     "src": "./images/Lateral Raise (Band).jpg",
-    "main": "./"
+    "main": "./videos/Lateral Raise (Band).jpg"
   },
   {
     "name": "Diamond Push Up",
@@ -2277,7 +2277,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Diamond Push Up.jpg",
-    "main": "./"
+    "main": "./videos/Diamond Push Up.jpg"
   },
   {
     "name": "Floor Triceps Dip",
@@ -2285,7 +2285,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Floor Triceps Dip.jpg",
-    "main": "./"
+    "main": "./videos/Floor Triceps Dip.mp4"
   },
   {
     "name": "Pike Pushup",
@@ -2293,7 +2293,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Pike Pushup.jpg",
-    "main": "./"
+    "main": "./videos/Pike Pushup.jpg"
   },
   {
     "name": "Ring Dips",
@@ -2301,7 +2301,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Ring Dips.jpg",
-    "main": "./"
+    "main": "./videos/Ring Dips.jpg"
   },
   {
     "name": "Bench Press - Close Grip (Barbell)",
@@ -2309,7 +2309,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Bench Press - Close Grip (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Bench Press - Close Grip (Barbell).mp4"
   },
   {
     "name": "JM Press (Barbell)",
@@ -2317,7 +2317,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/JM Press (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/JM Press (Barbell).mp4"
   },
   {
     "name": "Skullcrusher (Barbell)",
@@ -2325,7 +2325,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Skullcrusher (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Skullcrusher (Barbell).jpg"
   },
   {
     "name": "Triceps Extension (Barbell)",
@@ -2333,7 +2333,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Triceps Extension (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Triceps Extension (Barbell).mp4"
   },
   {
     "name": "Single Arm Tricep Extension (Dumbbell)",
@@ -2341,7 +2341,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Single Arm Tricep Extension (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Single Arm Tricep Extension (Dumbbell).mp4"
   },
   {
     "name": "Skullcrusher (Dumbbell)",
@@ -2349,7 +2349,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Skullcrusher (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Skullcrusher (Dumbbell).jpg"
   },
   {
     "name": "Triceps Extension (Dumbbell)",
@@ -2357,7 +2357,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Triceps Extension (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Triceps Extension (Dumbbell).mp4"
   },
   {
     "name": "Triceps Kickback (Dumbbell)",
@@ -2365,7 +2365,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Triceps Kickback (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Triceps Kickback (Dumbbell).mp4"
   },
   {
     "name": "Seated Dip Machine",
@@ -2373,7 +2373,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Seated Dip Machine.jpg",
-    "main": "./"
+    "main": "./videos/Seated Dip Machine.mp4"
   },
   {
     "name": "Single Arm Triceps Pushdown (Cable)",
@@ -2381,7 +2381,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Single Arm Triceps Pushdown (Cable).jpg",
-    "main": "./"
+    "main": "./videos/Single Arm Triceps Pushdown (Cable).mp4"
   },
   {
     "name": "Triceps Dip",
@@ -2389,7 +2389,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Triceps Dip.jpg",
-    "main": "./"
+    "main": "./videos/Triceps Dip.mp4"
   },
   {
     "name": "Triceps Dip (Assisted)",
@@ -2397,7 +2397,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Triceps Dip (Assisted).jpg",
-    "main": "./"
+    "main": "./videos/Triceps Dip (Assisted).mp4"
   },
   {
     "name": "Triceps Dip (Weighted)",
@@ -2405,7 +2405,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Triceps Dip (Weighted).jpg",
-    "main": "./"
+    "main": "./videos/Triceps Dip (Weighted).jpg"
   },
   {
     "name": "Triceps Extension (Cable)",
@@ -2413,7 +2413,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Triceps Extension (Cable).jpg",
-    "main": "./"
+    "main": "./videos/Triceps Extension (Cable).jpg"
   },
   {
     "name": "Triceps Extension (Machine)",
@@ -2421,7 +2421,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Triceps Extension (Machine).jpg",
-    "main": "./"
+    "main": "./videos/Triceps Extension (Machine).mp4"
   },
   {
     "name": "Triceps Kickback (Cable)",
@@ -2429,7 +2429,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Triceps Kickback (Cable).jpg",
-    "main": "./"
+    "main": "./videos/Triceps Kickback (Cable).jpg"
   },
   {
     "name": "Triceps Pushdown",
@@ -2437,7 +2437,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Triceps Pushdown.jpg",
-    "main": "./"
+    "main": "./videos/Triceps Pushdown.mp4"
   },
   {
     "name": "Triceps Rope Pushdown",
@@ -2445,7 +2445,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Triceps Rope Pushdown.jpg",
-    "main": "./"
+    "main": "./videos/Triceps Rope Pushdown.jpg"
   },
   {
     "name": "Bench Dip",
@@ -2453,7 +2453,7 @@
     "equipment": "Other",
     "isvideo": true,
     "src": "./images/Bench Dip.jpg",
-    "main": "./"
+    "main": "./videos/Bench Dip.mp4"
   },
   {
     "name": "Shrug (Barbell)",
@@ -2461,7 +2461,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Shrug (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Shrug (Barbell).mp4"
   },
   {
     "name": "Shrug (Cable)",
@@ -2469,7 +2469,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Shrug (Cable).jpg",
-    "main": "./"
+    "main": "./videos/Shrug (Cable).mp4"
   },
   {
     "name": "Shrug (Dumbbell)",
@@ -2477,7 +2477,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Shrug (Dumbbell).jpg",
-    "main": "./"
+    "main": "./videos/Shrug (Dumbbell).mp4"
   },
   {
     "name": "Shrug (Machine)",
@@ -2485,7 +2485,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Shrug (Machine).jpg",
-    "main": "./"
+    "main": "./videos/Shrug (Machine).mp4"
   },
   {
     "name": "Shrug (Smith Machine)",
@@ -2493,7 +2493,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Shrug (Smith Machine).jpg",
-    "main": "./"
+    "main": "./videos/Shrug (Smith Machine).mp4"
   },
   {
     "name": "Upright Row (Barbell)",
@@ -2501,7 +2501,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Upright Row (Barbell).jpg",
-    "main": "./"
+    "main": "./videos/Upright Row (Barbell).mp4"
   },
   {
     "name": "Lying Neck Curls (Weighted)",
@@ -2509,7 +2509,7 @@
     "equipment": "Plate",
     "isvideo": true,
     "src": "./images/Lying Neck Curls (Weighted).jpg",
-    "main": "./"
+    "main": "./videos/Lying Neck Curls (Weighted).mp4"
   },
   {
     "name": "Lying Neck Extension (Weighted)",
@@ -2517,7 +2517,7 @@
     "equipment": "Plate",
     "isvideo": true,
     "src": "./images/Lying Neck Extension (Weighted).jpg",
-    "main": "./"
+    "main": "./videos/Lying Neck Extension (Weighted).jpg"
   },
   {
     "name": "Burpee",
@@ -2525,7 +2525,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Burpee.jpg",
-    "main": "./"
+    "main": "./videos/Burpee.mp4"
   },
   {
     "name": "Downward Dog",
@@ -2533,7 +2533,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Downward Dog.jpg",
-    "main": "./"
+    "main": "./videos/Downward Dog.jpg"
   },
   {
     "name": "Frog Jumps",
@@ -2541,7 +2541,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Frog Jumps.jpg",
-    "main": "./"
+    "main": "./videos/Frog Jumps.jpg"
   },
   {
     "name": "Handstand Hold",
@@ -2549,7 +2549,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Handstand Hold.jpg",
-    "main": "./"
+    "main": "./videos/Handstand Hold.jpg"
   },
   {
     "name": "Jumping Jack",
@@ -2557,7 +2557,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Jumping Jack.jpg",
-    "main": "./"
+    "main": "./videos/Jumping Jack.jpg"
   },
   {
     "name": "Mountain Climber",
@@ -2565,7 +2565,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/Mountain Climber.jpg",
-    "main": "./"
+    "main": "./videos/Mountain Climber.jpg"
   },
   {
     "name": "One Arm Push Up",
@@ -2573,7 +2573,7 @@
     "equipment": "None",
     "isvideo": true,
     "src": "./images/One Arm Push Up.jpg",
-    "main": "./"
+    "main": "./videos/One Arm Push Up.mp4"
   },
   {
     "name": "Clean",
@@ -2581,7 +2581,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Clean.jpg",
-    "main": "./"
+    "main": "./videos/Clean.jpg"
   },
   {
     "name": "Clean and Jerk",
@@ -2589,7 +2589,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Clean and Jerk.jpg",
-    "main": "./"
+    "main": "./videos/Clean and Jerk.mp4"
   },
   {
     "name": "Clean and Press",
@@ -2597,7 +2597,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Clean and Press.jpg",
-    "main": "./"
+    "main": "./videos/Clean and Press.mp4"
   },
   {
     "name": "Clean Pull",
@@ -2605,7 +2605,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Clean Pull.jpg",
-    "main": "./"
+    "main": "./videos/Clean Pull.jpg"
   },
   {
     "name": "Deadlift High Pull",
@@ -2613,7 +2613,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Deadlift High Pull.jpg",
-    "main": "./"
+    "main": "./videos/Deadlift High Pull.mp4"
   },
   {
     "name": "Hang Clean",
@@ -2621,7 +2621,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Hang Clean.jpg",
-    "main": "./"
+    "main": "./videos/Hang Clean.jpg"
   },
   {
     "name": "Hang Snatch",
@@ -2629,7 +2629,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Hang Snatch.jpg",
-    "main": "./"
+    "main": "./videos/Hang Snatch.jpg"
   },
   {
     "name": "Landmine Squat and Press",
@@ -2637,7 +2637,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Landmine Squat and Press.jpg",
-    "main": "./"
+    "main": "./videos/Landmine Squat and Press.jpg"
   },
   {
     "name": "Overhead Squat",
@@ -2645,7 +2645,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Overhead Squat.jpg",
-    "main": "./"
+    "main": "./videos/Overhead Squat.jpg"
   },
   {
     "name": "Power Clean",
@@ -2653,7 +2653,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Power Clean.jpg",
-    "main": "./"
+    "main": "./videos/Power Clean.mp4"
   },
   {
     "name": "Power Snatch",
@@ -2661,7 +2661,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Power Snatch.jpg",
-    "main": "./"
+    "main": "./videos/Power Snatch.jpg"
   },
   {
     "name": "Snatch",
@@ -2669,7 +2669,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Snatch.jpg",
-    "main": "./"
+    "main": "./videos/Snatch.jpg"
   },
   {
     "name": "Split Jerk",
@@ -2677,7 +2677,7 @@
     "equipment": "Barbell",
     "isvideo": true,
     "src": "./images/Split Jerk.jpg",
-    "main": "./"
+    "main": "./videos/Split Jerk.jpg"
   },
   {
     "name": "Dumbbell Snatch",
@@ -2685,7 +2685,7 @@
     "equipment": "Dumbbell",
     "isvideo": true,
     "src": "./images/Dumbbell Snatch.jpg",
-    "main": "./"
+    "main": "./videos/Dumbbell Snatch.jpg"
   },
   {
     "name": "Kettlebell Clean",
@@ -2693,7 +2693,7 @@
     "equipment": "Kettlebell",
     "isvideo": true,
     "src": "./images/Kettlebell Clean.jpg",
-    "main": "./"
+    "main": "./videos/Kettlebell Clean.jpg"
   },
   {
     "name": "Kettlebell High Pull",
@@ -2701,7 +2701,7 @@
     "equipment": "Kettlebell",
     "isvideo": true,
     "src": "./images/Kettlebell High Pull.jpg",
-    "main": "./"
+    "main": "./videos/Kettlebell High Pull.jpg"
   },
   {
     "name": "Kettlebell Shoulder Press",
@@ -2709,7 +2709,7 @@
     "equipment": "Kettlebell",
     "isvideo": true,
     "src": "./images/Kettlebell Shoulder Press.jpg",
-    "main": "./"
+    "main": "./videos/Kettlebell Shoulder Press.jpg"
   },
   {
     "name": "Kettlebell Snatch",
@@ -2717,7 +2717,7 @@
     "equipment": "Kettlebell",
     "isvideo": true,
     "src": "./images/Kettlebell Snatch.jpg",
-    "main": "./"
+    "main": "./videos/Kettlebell Snatch.jpg"
   },
   {
     "name": "Kettlebell Swing",
@@ -2725,7 +2725,7 @@
     "equipment": "Kettlebell",
     "isvideo": true,
     "src": "./images/Kettlebell Swing.jpg",
-    "main": "./"
+    "main": "./videos/Kettlebell Swing.jpg"
   },
   {
     "name": "Kettlebell Turkish Get Up",
@@ -2733,7 +2733,7 @@
     "equipment": "Kettlebell",
     "isvideo": true,
     "src": "./images/Kettlebell Turkish Get Up.jpg",
-    "main": "./"
+    "main": "./videos/Kettlebell Turkish Get Up.jpg"
   },
   {
     "name": "Thruster (Kettlebell)",
@@ -2741,7 +2741,7 @@
     "equipment": "Kettlebell",
     "isvideo": true,
     "src": "./images/Thruster (Kettlebell).jpg",
-    "main": "./"
+    "main": "./videos/Thruster (Kettlebell).jpg"
   },
   {
     "name": "Muscle Up",
@@ -2749,7 +2749,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Muscle Up.jpg",
-    "main": "./"
+    "main": "./videos/Muscle Up.jpg"
   },
   {
     "name": "Squat Row",
@@ -2757,7 +2757,7 @@
     "equipment": "Machine",
     "isvideo": true,
     "src": "./images/Squat Row.jpg",
-    "main": "./"
+    "main": "./videos/Squat Row.jpg"
   },
   {
     "name": "Ball Slams",
@@ -2765,7 +2765,7 @@
     "equipment": "Other",
     "isvideo": true,
     "src": "./images/Ball Slams.jpg",
-    "main": "./"
+    "main": "./videos/Ball Slams.jpg"
   },
   {
     "name": "Farmers Walk",
@@ -2773,7 +2773,7 @@
     "equipment": "Other",
     "isvideo": true,
     "src": "./images/Farmers Walk.jpg",
-    "main": "./"
+    "main": "./videos/Farmers Walk.mp4"
   },
   {
     "name": "Sled Push",
@@ -2781,7 +2781,7 @@
     "equipment": "Other",
     "isvideo": true,
     "src": "./images/Sled Push.jpg",
-    "main": "./"
+    "main": "./videos/Sled Push.mp4"
   },
   {
     "name": "Wall Ball",
@@ -2789,6 +2789,6 @@
     "equipment": "Other",
     "isvideo": true,
     "src": "./images/Wall Ball.jpg",
-    "main": "./"
+    "main": "./videos/Wall Ball.jpg"
   }
 ]
