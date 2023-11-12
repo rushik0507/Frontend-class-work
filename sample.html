@@ -12,16 +12,13 @@
       // Access the select element using its id
       var selectElement = document.getElementById("mySelect");
 
-      // Add a new option to the select tag
       var option = document.createElement("option");
       option.value = "option4";
       option.text = "Option 4";
       selectElement.add(option);
 
-      // Set the selected option to "option2"
       selectElement.value = "option2";
 
-      // Get the selected option
       var selectedOption = selectElement.value;
       console.log("Selected option: " + selectedOption);
 
